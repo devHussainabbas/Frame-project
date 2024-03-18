@@ -1,0 +1,660 @@
+ * {
+     padding: 0px;
+     margin: 0px;
+ }
+
+ #main {
+     background-color: aqua;
+     background-image: url(./12345.jpg);
+     height: 700px;
+
+
+ }
+
+ .navbar {
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+     cursor: pointer;
+     font-size: 20px;
+     color: rgb(255, 255, 255);
+     padding-top: 30px;
+
+
+
+ }
+
+ .item ul {
+     display: flex;
+     list-style: none;
+     gap: 30px;
+     color: white;
+     cursor: pointer;
+
+ }
+
+ .heading {
+     color: white;
+     font-size: 55px;
+     text-align: center;
+     margin-top: 15%;
+     font-family: "Helvetica Neue", Helvetica, Arial, sans-
+ }
+
+ .btn {
+     text-align: center;
+
+
+
+ }
+
+ #mobiles {
+     padding-top: 90px;
+     padding-bottom: 100px;
+ }
+
+ .mobile {
+     display: flex;
+     justify-content: space-around;
+     padding: 40px;
+ }
+
+ .btn1 {
+     padding: 20px 25px;
+     font-size: 20px;
+     color: white;
+     background-color: rgb(51, 90, 189);
+     border: none;
+     cursor: pointer;
+ }
+
+ .btn1:hover {
+     background-color: blue;
+ }
+
+ .btn2 {
+     padding: 20px 25px;
+     font-size: 20px;
+     color: white;
+     background-color: transparent;
+     border: 2px solid white;
+     cursor: pointer;
+ }
+
+ .btn2:hover {
+     background-color: rgb(195, 195, 198);
+ }
+
+ #sec3 {
+     background-color: rgb(160, 231, 231);
+     display: flex;
+     padding-left: 300px;
+     padding-top: 100px;
+     padding-bottom: 100px;
+
+ }
+
+ .div3 {
+     width: 70%
+ }
+
+ .div3 h1 {
+
+     text-align: center;
+ }
+
+ .stylefeatures {
+    color: #73767c;
+    line-height: 1.7;
+    font-size: 16px;
+    font-family: "Open Sans", "Arial", "sans-serif";
+     text-align: center
+ }
+ .ftr{
+    font-size: 42px;
+    font-family: "Open Sans", "Arial", "sans-serif";
+ }
+
+ #sun {
+     text-align: center;
+     padding-left: 60px;
+     margin-left: 46%;
+     padding-top: 0px;
+     background-color: red;
+
+ }
+ .mndt{
+    margin-top:45px;
+    font-size: 18px;
+ }
+ .mndv{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+ }
+
+
+ #part3 {
+     width: 50px;
+     justify-content: center;
+     display: flex
+ }
+ .thtwy{
+    font-size: 50px;
+    margin-top: 50px;
+    font-family: "Open Sans", "Arial", "sans-serif";
+
+ }
+
+ #sec4 {
+     background-color: rgb(160, 231, 231);
+     display: flex;
+
+ }
+
+ .divimg {
+     display: flex;
+     ;
+     height: 460px;
+
+ }
+
+ .divpara {
+     width: 500px;
+     /* text-align: center; */
+     padding-top: px;
+     padding-left: 60px;
+     font-size: 18px;
+ }
+ .prgrph{
+    font-size: 18px; 
+ }
+
+ #sec5 {
+     background-color: rgb(160, 231, 231);
+     display: flex;
+     gap: 10%;
+     padding-top: 100px;
+     padding-bottom: 100px;
+
+ }
+
+ .frame {
+     /* width: 450px; */
+     /* text-align: center; */
+     padding-left: 150px;
+ }
+
+ .img2 {
+     display: flex;
+     ;
+     height: 460px;
+
+ }
+
+ #sec8 {
+     background-color: rgb(160, 231, 231);
+     gap: 30px;
+     padding-right: 400px;
+     justify-content: space-evenly;
+     display: flex;
+     padding-top: 50px;
+     padding-bottom: 200px
+ }
+
+ .margin {
+     font: size 40px;
+     color: rgb(39, 39, 249);
+ }
+
+ .sec8img {
+     display: flex;
+     ;
+     height: 430px;
+     gap: 100px;
+
+ }
+
+ .sec8para {}
+
+ #choose {
+     background-color: white;
+     padding-top: 70px;
+     padding-bottom: 100px;
+
+ }
+
+ .how {
+     font-size: 40px;
+ }
+
+ .parragraph {
+     line-height: 30px;
+     font-size: 19px;
+     margin-top: 20px;
+
+ }
+
+ .h11 {
+     text-align: center;
+
+ }
+
+ .choosepara {
+     /* width: 45%; */
+     text-align: center;
+
+ }
+
+ .btn12 {
+     border: none;
+     background-color: black;
+     padding: 1px;
+     padding-left: 65px;
+     margin: 5px;
+ }
+
+ #cards {
+     background-color: white;
+     display: flex;
+     justify-content: center;
+     gap: 7px;
+     padding-bottom: 100px;
+     padding-top: 30px;
+ }
+
+ .divbt {
+     background-color: rgba(255, 255, 255, 0.715);
+     border: 1px solid #ebebeb;
+     line-height: 30px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 35px;
+     padding-top: 40px;
+
+
+
+ }
+
+ .divbtt {
+     background-color: rgba(255, 255, 255, 0.715);
+     border: 1px solid #ebebeb;
+     line-height: 30px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 60px;
+     padding-bottom: 60px;
+     box-shadow: 0 20px 45px -10px rgba(0, 0, 0, .15);
+ }
+
+ .card:hover {
+
+     box-shadow: 0 20px 45px -10px rgba(0, 0, 0, .15);
+ }
+
+ .three {
+     color: rgb(42, 42, 242);
+     font-size: 50px;
+     text-align: center;
+     padding-bottom: 10px;
+ }
+
+ .cardstrt {
+     text-align: center;
+ }
+
+ .btn20 {
+     background-color: rgb(58, 20, 20);
+     color: white;
+     padding: 10px 33px;
+     margin-left: 70px;
+     margin-top: 30px;
+
+ }
+
+ .btn20:hover {
+     background-color: rgb(75, 33, 33);
+
+ }
+
+ .btn21 {
+     background-color: rgb(45, 43, 168);
+     color: white;
+     padding: 10px 33px;
+     margin-left: 70px;
+     margin-top: 30px;
+ }
+
+ .btn21:hover {
+     background-color: rgb(32, 30, 167);
+ }
+
+ .btn22 {
+     background-color: rgb(58, 20, 20);
+     color: white;
+     padding: 10px 33px;
+     text-align: center;
+     margin-left: 70px;
+     margin-top: 30px;
+ }
+
+ .btn22:hover {
+     background-color: rgb(67, 28, 28);
+
+ }
+
+ #thats {
+     background-color: rgb(202, 249, 249);
+     text-align: center;
+     padding-top: 70px;
+     padding-bottom: 70px;
+
+
+ }
+
+ .btnthats {
+     background-color: black;
+     padding-left: 5%;
+     width: auto;
+    
+
+
+ }
+
+ .rdpara {
+     width: 45%;
+     padding-left: 30%;
+
+
+ }
+
+ #allcard {
+     background-color: rgb(202, 249, 249);
+     display: flex;
+     justify-content: center;
+     gap: 3%;
+     padding-top: 30px;
+     padding-bottom: 30px;
+     width: 100%;
+ }
+
+ .divcard1 {
+     background-color: white;
+     width: 260px;
+     border: 10%;
+     line-height: 30px;
+     font-size: 19px;
+     padding: 50px;
+     border: 4px;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     border-radius: 5px;
+ }
+
+ .divcard1 :hover {
+     background-color: rgba(255, 255, 255, 0.685);
+ }
+
+ #lastcard {
+     background-color: rgb(202, 249, 249);
+     display: flex;
+     justify-content: center;
+     gap: 3%;
+     padding-bottom: 40px;
+ }
+
+ .divlast {
+     background-color: white;
+     width: 260px;
+     border: 10%;
+     line-height: 30px;
+     font-size: 19px;
+     padding: 50px;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, ;
+     border-radius: 5px;
+ }
+
+ .divlast:hover {
+     background-color: rgba(255, 255, 255, 0.737);
+ }
+
+ #tryit {
+     text-align: center;
+     background-color: white;
+     padding-top: 20px;
+     padding-bottom: 40px;
+
+ }
+
+ .star-icons {
+     padding: 4% 0%;
+ }
+
+ .trypara {
+     width: 47%;
+     text-align: center;
+     padding-left: 27%;
+     line-height: 22px;
+     font-size: 18px;
+     margin-top: 15px;
+ }
+
+ .TryItToday {
+     font-size: 45px;
+     font-family: "Open Sans", "Arial", "sans-serif";
+     margin-top: 100px;
+
+ }
+
+ .gtitnw {
+     margin-left: 10px;
+     padding-left: 25px;
+     padding-right: 25px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     background-color: rgb(55, 55, 240);
+     color: white;
+     cursor: pointer;
+     margin-top: 20px;
+ }
+
+ .gtitnw:hover {
+     background-color: rgb(30, 5, 218)
+ }
+
+ .buttonbtx {
+     background-color: black;
+     padding-left: 5%;
+     width: auto;
+
+ }
+
+ #imagebt {
+     background-color: white;
+     padding-bottom: 50px;
+
+ }
+
+ .btimage {
+     text-align: center;
+ }
+
+ .btimage img {
+     width: 80%;
+     margin-top: 70px;
+
+ }
+
+ #contents {
+     background-color: white;
+     padding-bottom: 20px;
+
+ }
+
+ .maindiv5 {
+     display: flex;
+     padding: 0% 120px;
+     gap: 4%;
+
+ }
+
+ .maindiv5 div {
+     width: 600px;
+     line-height: 30px;
+     font-size: 17px;
+
+ }
+
+ .maindiv6 {
+     display: flex;
+     padding: 0% 120px;
+     gap: 4%;
+ }
+
+ .maindiv6 div {
+     width: 600px;
+     line-height: 30px;
+     font-size: 17px;
+
+ }
+
+ #k100 {
+     background-color: rgb(43, 57, 207);
+     text-align: center;
+     color: white;
+     padding: 80px 280px;
+ }
+
+ .members h1 {
+     font-weight: 600;
+     font-family: inherit;
+     margin-bottom: 15px;
+     font-size: 30px;
+     color: whitesmoke;
+ }
+
+ .members p {
+     font-weight: 100;
+     font-family: Arial, Helvetica, sans-serif;
+     line-height: 21px;
+     color: whitesmoke;
+ }
+
+ .members button {
+     background-color: rgb(42, 40, 40);
+     color: white;
+     padding: 8px 30px;
+     margin-top: 20px;
+ }
+
+ .members button:hover {
+     background-color: rgb(42, 40, 40);
+     cursor: pointer;
+ }
+
+ #form {
+     background-color: #c8f2f2;
+     display: flex;
+     justify-content: first baseline;
+     gap: 10%;
+     padding-top: 70px;
+     padding-left: 10%;
+     padding-bottom: 7%;
+ }
+
+ .formdiv {
+     width: auto;
+     background-color: white;
+     padding-left: 90px;
+     padding-right: 90px;
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
+
+ .input {
+     padding-left: 116px;
+     padding-right: 100px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+
+ }
+
+ .lastedbutton {
+     padding-left: 16px;
+     padding-right: 16px;
+     cursor: pointer;
+     background-color: rgb(52, 52, 237);
+     color: #c8f2f2;
+     padding-top: 6px;
+     padding-bottom: 6px;
+ }
+
+ .lastedbutton:hover {
+     padding-left: 20px;
+     cursor: pointer;
+     background-color: blue;
+     color: #c8f2f2;
+
+ }
+
+ #lasted {
+     background-color: rgb(62, 62, 253);
+     text-align: center;
+     padding-top: 70px;
+     padding-bottom: 50px;
+     color: white;
+ }
+
+ .allimages {
+     width: 75px;
+     height: 75px;
+     border-radius: 50%;
+ }
+
+ .allow {
+     color: rgb(60, 60, 234);
+ }
+
+ .allowdv p {
+     font-size: 19px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+ }
+
+ .btnlearn {
+     border: none;
+     background-color: transparent;
+     color: rgb(83, 83, 255);
+     font-size: 15px;
+ }
+
+ #icons {
+     width: 30px;
+     font-size: 35px;
+     padding: 10px;
+     color: hwb(0 100% 0% / 0.411);
+     padding-bottom: 30px;
+ }
+
+ #icons:hover {
+     color: white;
+ }
+
+ .rights {
+     line-height: 40px;
+ }
+
+ #icons1 {
+     color: rgb(77, 77, 247);
+     font-size: 40px;
+     padding-bottom: 30px;
+     background-color: white;
+ }
+
+ .icon3 {
+     display: flex;
+     align-items: center;
+     gap: 10px;
+ }
